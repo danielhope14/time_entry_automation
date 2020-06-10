@@ -1,0 +1,12 @@
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\obj\Debug\netcoreapp2.2\Models.csproj.CopyComplete
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\obj\Debug\netcoreapp2.2\Models.dll
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\obj\Debug\netcoreapp2.2\Models.pdb
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache

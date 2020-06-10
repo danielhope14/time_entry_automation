@@ -1,0 +1,4 @@
+C:\Users\maste\Source\Repos\tracktimelazy\Application\SampleFunctionApp.Test\obj\Debug\netcoreapp2.2\SampleFunctionApp.Test.csprojAssemblyReference.cache
+C:\Users\maste\Source\Repos\tracktimelazy\Application\SampleFunctionApp.Test\obj\Debug\netcoreapp2.2\SampleFunctionApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\maste\Source\Repos\tracktimelazy\Application\SampleFunctionApp.Test\obj\Debug\netcoreapp2.2\SampleFunctionApp.Test.AssemblyInfoInputs.cache
+C:\Users\maste\Source\Repos\tracktimelazy\Application\SampleFunctionApp.Test\obj\Debug\netcoreapp2.2\SampleFunctionApp.Test.AssemblyInfo.cs

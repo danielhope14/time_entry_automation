@@ -1,0 +1,8 @@
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\bin\Debug\netcoreapp2.2\Utilities.deps.json
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfoInputs.cache
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\obj\Debug\netcoreapp2.2\Utilities.AssemblyInfo.cs
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\obj\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\obj\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\maste\Source\Repos\tracktimelazy\Application\Utilities\obj\Debug\netcoreapp2.2\Utilities.csproj.CoreCompileInputs.cache

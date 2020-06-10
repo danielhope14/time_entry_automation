@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "MyCustomSetting": "a custom setting",
+    "HarvestKey": "@Microsoft.KeyVault(SecretUri=https://danielhopekeyvault.vault.azure.net/secrets/HarvestKey/05cf13234c194b288a3564dd382ec4d9)"
+
+  }
+}
